@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi, I am Tae Hyeon Noh :)
 ---
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sun%20xinkai&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Noh%20taehyeon&fontAlign=50&fontAlignY=40&color=gradient)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/96555414/148708562-a2140cf8-9e02-4c7c-af4c-2ca53ce25297.jpg" width="400"></p>
 
