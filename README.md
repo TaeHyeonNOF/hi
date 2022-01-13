@@ -6,7 +6,7 @@ subtitle: Hi, I am Tae Hyeon Noh :)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Noh%20taehyeon&fontAlign=50&fontAlignY=40&color=gradient)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/96555414/148708562-a2140cf8-9e02-4c7c-af4c-2ca53ce25297.jpg" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/81228394/132434060-cc853480-890a-4652-a0fd-6389c1f59dd4.png"></p>
 
 ---
 
